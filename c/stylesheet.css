@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%
+
+}
+
+   canvas{
+   	border:  2px solid black;
+   	position: relative;
+   	left: 220px;
+   	top:55px;
+   	
+   }
+
+#Simple-Paint{
+
+	color: black;
+	font-size:300%;
+	position: relative;
+	top: 20px;
+	left: 500px;
+}
+#tools{
+        position: relative;
+		float: left;
+	}
+
+	#clear{
+    height: 23px;
+	font-size: 15.5px;
+	text-align: center;
+    border: 1px solid black;
+    width: 50px;
+    float: left;
+	position:relative;
+	top : 60px;
+	right: -1077px
+}
